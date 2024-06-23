@@ -13,3 +13,4 @@ The primary objectives of this thesis are:
 - To simulate the PMSM and FOC using MATLAB/Simulink.
 - To validate the performance of the control strategy through simulations and experimental setups.
 - To discuss various modulation techniques.
+- To discuss difference tuning techniques.
